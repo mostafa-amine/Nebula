@@ -1,0 +1,17 @@
+{
+    "name": "mostafa-amine/nebula",
+    "authors": [
+        {
+            "name": "mostafa amine",
+            "email": "BRIERE.MOSTAFAAMINE@ofppt-edu.ma"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }        
+    },
+    "require": {
+
+    }
+}
